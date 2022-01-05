@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Golang
 - 📫 931009686@qq.com
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=a893206&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=a893206&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="CR's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a893206&layout=compact&theme=github_dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!---
 a893206/a893206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
